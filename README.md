@@ -8,3 +8,4 @@ IPFS link containing metadata for token1: https://gateway.pinata.cloud/ipfs/QmQN
  
 IPFS link containing metadata for token2: https://gateway.pinata.cloud/ipfs/QmdFZbuwJ2mLZ16bFJSVdZaoL48uY5mppJZMsZpHRDGAdK
 
+Opensea Url: https://testnets.opensea.io/williamsgodsfavour
